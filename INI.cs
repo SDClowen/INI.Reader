@@ -7,9 +7,6 @@ using System.Runtime.InteropServices;
 
 namespace Common.IO
 {
-    /// <summary>
-    /// Felsorolás...
-    /// </summary>
     public enum ProfileChangeType
     {
         /// <summary> 
