@@ -3,7 +3,7 @@ Easy to use and fast INI class
 
 *Read Ini File*
 ```cs
-var ini = new Common.IO.Ini(string ini);
+var ini = new Ini(string ini);
 ```
 *Remove Entry*
 ```cs
